@@ -1,5 +1,6 @@
 {
   "name": "04-clean-ddd",
+  "type": "module",
   "version": "1.0.0",
   "description": "Design dirigido à domínio",
   "main": "index.js",
@@ -11,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^25.3.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
   }
 }
